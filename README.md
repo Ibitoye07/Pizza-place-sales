@@ -1,5 +1,7 @@
-# Pizza_place_sales
-This project presents an in-depth analysis of a year's worth of sales data from a fictitious pizza restaurant. The dataset encompasses detailed information on each order, including: Date and Time: Timestamp of each order placed, type, size, quantity, price, and ingredients of pizzas ordered.
+# Pizza_place_sales_Analysis
 
-## Some Objectives of the Analysis
-To uncover revenue patterns, customer ordering behavior, product performance, and time-based sales trends from a year's worth of pizza sales to inform data-driven decision-making.
+## Overview
+This project explores an in-depth analysis of a year's sales data from a fictitious pizza restaurant to understand business performance, including order trends, top-selling pizzas, customer preferences, and time-based patterns (daily, weekly, monthly).
+
+## 📁 Dataset
+This dataset is made up of 4 datasets:
